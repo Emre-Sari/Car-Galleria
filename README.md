@@ -12,8 +12,8 @@ Car Galeria is a mobile application where gallery owners can log in with their u
 - **Vehicle details:** Features and information of each vehicle can be viewed.
 
 ## ScreenShots
-<img width="844" alt="ScreenShot1" src="https://github.com/Emre-Sari/Car-Galleria/assets/93936764/cf8de8b2-6667-4f1e-8433-5a053a6ab57a">
 
+<img width="844" alt="Screenshot 2024-06-23 at 13 59 56" src="https://github.com/Emre-Sari/Car-Galleria/assets/93936764/a3a10222-9eb1-4dd2-94f3-3278495b18d5">
 
 
 <img width="844" alt="screenshot2" src="https://github.com/Emre-Sari/Car-Galleria/assets/93936764/a66b85e2-4fee-479f-ad4d-ae50aa2a0202">
